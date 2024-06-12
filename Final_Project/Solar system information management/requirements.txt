@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+llama-cpp-python
+transformers
+sentence-transformers
+PyPDF2
+langchain_community
+langchain_huggingface
